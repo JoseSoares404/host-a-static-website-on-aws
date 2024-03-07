@@ -1,6 +1,6 @@
 ---
 
-## Hosting a Static Website on AWS
+## Hosting a Static Website on AWS - By Jose Soares
 
 ### Overview
 
